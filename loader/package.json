@@ -1,0 +1,25 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node loader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHowardHill/3OS.git"
+  },
+  "author": "Ethan Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHowardHill/3OS/issues"
+  },
+  "homepage": "https://github.com/EHowardHill/3OS#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pixi.js": "^8.9.2",
+    "three": "^0.177.0"
+  }
+}
